@@ -1,0 +1,33 @@
+@use "sass:list";
+
+@mixin transition($transitions...) {
+  $unfolded-transitions: ();
+
+  @each $transition in $transitions {
+    $unfolded-transitions: list.append($unfolded-transitions, unfoldTransition($transition), comma);
+  }
+
+  transition: $unfolded-transitions;
+}
+
+@function unfold-transition($transition) {
+  $property: all;
+  $params: $animation-default;
+  $delay: null;
+  $default-properties: ($property, $params, $delay);
+  $unfolded-transitions: ();
+
+  @for $i from 1 through list.length($default-properties) {
+    $p: null;
+
+    @if $i <= list.length($transition) {
+      $p: list.nth($transition, $i)
+    } @else {
+      $p: list.nth($default-properties, $i)
+    }
+
+    $unfolded-transitions: list.append($unfolded-transitions, $p);
+  }
+
+  @return $unfolded-transitions;
+}

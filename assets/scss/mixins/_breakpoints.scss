@@ -1,0 +1,36 @@
+@use "sass:math";
+@use "../common/variables" as *;
+
+@mixin to($media) {
+  @if $media == lg {
+    @media only screen and (min-width: $lg) {
+      @content;
+    }
+  } @else if $media == xl {
+    @media only screen and (min-width: $xl) {
+      @content;
+    }
+  }
+}
+
+@mixin from($media) {
+  @if $media == lg {
+    @media only screen and (max-width: ($lg - math.div(1em, 16))) {
+      @content;
+    }
+  } @else if $media == xl {
+    @media only screen and (max-width: ($xl - math.div(1em, 16))) {
+      @content;
+    }
+  }
+}
+
+@mixin between($lower: null, $upper: null) {
+  @if $lower and $upper {
+    @include to($lower) {
+      @include from($upper) {
+        @content;
+      }
+    }
+  }
+}

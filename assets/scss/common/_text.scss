@@ -1,0 +1,29 @@
+@use "../mixins/breakpoints" as *;
+@use "../mixins/focus" as *;
+@use "../mixins/hover" as *;
+@use "variables" as *;
+
+%default-text {
+  font-size: 1.8rem;
+  font-weight: 400;
+  font-family: TTCommons, sans-serif;
+  line-height: 1.4;
+  text-rendering: geometricprecision;
+  direction: ltr;
+  color: $color-text;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  -osx-font-smoothing: grayscale;
+}
+
+h1,
+.h1 {
+  font-size: 8.4rem;
+  line-height: 100%;
+  font-weight: 400;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}

@@ -1,0 +1,77 @@
+/* page transitions */
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.3s;
+}
+
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+}
+
+/* components */
+.slide-fade-enter-active {
+  transition: all 0.3s ease-in-out;
+}
+
+.slide-fade-leave-active {
+  transition: all 0.3s ease-in-out;
+}
+
+.slide-fade-enter-from,
+.slide-fade-leave-to {
+  transform: translateX(2rem);
+  opacity: 0;
+}
+
+.slide-enter-active {
+  transition: opacity 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.slide-leave-active {
+  transition: opacity 0.3s ease-in-out, transform 0.2s ease-in-out;
+  position: absolute;
+}
+
+.slide-enter-from,
+.slide-leave-to {
+  opacity: 0;
+  transform: translateX(2rem);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 100ms ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.rotate-enter-active,
+.rotate-leave-active {
+  transition: transform 300ms ease;
+}
+
+.rotate-enter-from,
+.rotate-leave-to {
+  transform: rotateY(90deg);
+}
+
+/* filtered list animation */
+.filter-animation-enter-active {
+  transition: opacity 0.3s ease;
+}
+
+.filter-animation-leave-active {
+  display: none;
+  position: absolute;
+  z-index: -5;
+  transition: none;
+}
+
+.filter-animation-enter-from,
+.filter-animation-leave-to {
+  opacity: 0;
+}

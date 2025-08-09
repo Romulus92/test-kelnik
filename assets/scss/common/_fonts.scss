@@ -1,0 +1,31 @@
+@font-face {
+  font-weight: 300;
+  font-family: PT-Root-UI;
+  font-style: normal;
+  src: url("@/assets/fonts/PT-Root-UI-Light.woff2") format("woff2"), url("@/assets/fonts/PT-Root-UI-Light.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: PT-Root-UI;
+  font-style: normal;
+  src: url("@/assets/fonts/PT-Root-UI-Regular.woff2") format("woff2"), url("@/assets/fonts/PT-Root-UI-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: PT-Root-UI;
+  font-style: normal;
+  src: url("@/assets/fonts/PT-Root-UI-Medium.woff2") format("woff2"), url("@/assets/fonts/PT-Root-UI-Medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: PT-Root-UI;
+  font-style: normal;
+  src: url("@/assets/fonts/PT-Root-UI-Bold.woff2") format("woff2"), url("@/assets/fonts/PT-Root-UI-Bold.woff") format("woff");
+  font-display: swap;
+}

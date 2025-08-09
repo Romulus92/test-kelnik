@@ -1,0 +1,35 @@
+@use "breakpoints" as *;
+
+@mixin container($padding: 2) {
+  width: 100%;
+  max-width: 170rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 2rem;
+  padding-left: 2rem;
+
+  @include from('gt') {
+    @include to('lg') {
+      max-width: 124rem;
+    }
+  }
+
+  @include to(lg) {
+    padding-right: $padding + rem;
+    padding-left: $padding + rem;
+  }
+}
+
+@mixin container-header($padding: 4) {
+  width: 100%;
+  max-width: 184rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 2rem;
+  padding-left: 2rem;
+
+  @include to(lg) {
+    padding-right: $padding + rem;
+    padding-left: $padding + rem;
+  }
+}

@@ -1,0 +1,9 @@
+@mixin text-hyphens() {
+  @supports(hyphens: auto) {
+    hyphens: auto;
+  }
+
+  @supports not (hyphens: auto) {
+    overflow-wrap: break-word;
+  }
+}

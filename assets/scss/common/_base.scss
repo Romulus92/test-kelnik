@@ -1,0 +1,42 @@
+@use "sass:math";
+@use "../mixins/breakpoints" as *;
+@use "../mixins/grid" as *;
+@use "text" as *;
+@use "variables" as *;
+@use "../mixins/font-size" as *;
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
+
+  &.overflow-hidden {
+    overflow: hidden;
+  }
+}
+
+body {
+  position: relative;
+  font-size: 1.6rem;
+  background: white;
+  text-rendering: geometricprecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  -osx-font-smoothing: grayscale;
+
+  @extend %default-text;
+}
+
+a {
+  color: $color-text;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.container {
+  @include container(11);
+}
+
+.no-scroll {
+  overflow: hidden;
+}

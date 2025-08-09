@@ -1,0 +1,17 @@
+@use "sass:math";
+
+$color-darkblue: #0B1739;
+$color-darkblue-transparent: #0B173933;
+$color-green: #3EB57C;
+$color-lightgreen: #95D0A1;
+
+$color-text: $color-darkblue;
+$color-brand: $color-green;
+$color-background: $color-lightgreen;
+$color-background-gradient: linear-gradient(135deg, rgb(174 228 178 / 30%) 0%, rgb(149 208 161 / 30%) 100%);
+$color-border: $color-darkblue-transparent;
+
+/* Breakpoints */
+$lg: math.div(96em, 1.6);
+$xl: math.div(144em, 1.6);
+$container-max-width: math.div(144em, 1.6);

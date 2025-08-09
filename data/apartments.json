@@ -1,0 +1,902 @@
+[
+  {
+    "title": "3-комнатная №100",
+    "rooms": 3,
+    "area": 45.8,
+    "floor": 13,
+    "floors_total": 17,
+    "price": 4120000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №101",
+    "rooms": 1,
+    "area": 133.4,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 8000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №102",
+    "rooms": 2,
+    "area": 50.2,
+    "floor": 1,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №103",
+    "rooms": 4,
+    "area": 148.3,
+    "floor": 11,
+    "floors_total": 17,
+    "price": 15570000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №104",
+    "rooms": 2,
+    "area": 84.6,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 6340000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №105",
+    "rooms": 4,
+    "area": 157.1,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 16500000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №106",
+    "rooms": 1,
+    "area": 24.5,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №107",
+    "rooms": 4,
+    "area": 23.9,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №108",
+    "rooms": 3,
+    "area": 125.7,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 11310000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №109",
+    "rooms": 2,
+    "area": 108.9,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 8170000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №110",
+    "rooms": 4,
+    "area": 149.2,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 15670000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №111",
+    "rooms": 1,
+    "area": 134.6,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 8080000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №112",
+    "rooms": 1,
+    "area": 73.8,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 4430000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №113",
+    "rooms": 1,
+    "area": 37.4,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №114",
+    "rooms": 4,
+    "area": 51.9,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 5450000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №115",
+    "rooms": 2,
+    "area": 73.1,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 5480000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №116",
+    "rooms": 4,
+    "area": 44.3,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 4650000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №117",
+    "rooms": 3,
+    "area": 129.8,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 11680000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №118",
+    "rooms": 2,
+    "area": 144.0,
+    "floor": 5,
+    "floors_total": 17,
+    "price": 10800000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №119",
+    "rooms": 2,
+    "area": 102.4,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 7680000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №120",
+    "rooms": 4,
+    "area": 52.0,
+    "floor": 11,
+    "floors_total": 17,
+    "price": 5460000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №121",
+    "rooms": 3,
+    "area": 53.3,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 4800000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №122",
+    "rooms": 2,
+    "area": 76.7,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 5750000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №123",
+    "rooms": 3,
+    "area": 61.8,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 5560000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №124",
+    "rooms": 4,
+    "area": 87.9,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 9230000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №125",
+    "rooms": 4,
+    "area": 35.8,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №126",
+    "rooms": 3,
+    "area": 136.7,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 12300000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №127",
+    "rooms": 2,
+    "area": 43.3,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №128",
+    "rooms": 3,
+    "area": 83.5,
+    "floor": 12,
+    "floors_total": 17,
+    "price": 7520000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №129",
+    "rooms": 3,
+    "area": 86.4,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 7780000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №130",
+    "rooms": 4,
+    "area": 150.3,
+    "floor": 1,
+    "floors_total": 17,
+    "price": 15780000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №131",
+    "rooms": 3,
+    "area": 65.2,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 5870000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №132",
+    "rooms": 2,
+    "area": 97.4,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 7300000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №133",
+    "rooms": 3,
+    "area": 108.9,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 9800000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №134",
+    "rooms": 1,
+    "area": 61.5,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №135",
+    "rooms": 3,
+    "area": 69.2,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 6230000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №136",
+    "rooms": 4,
+    "area": 123.0,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 12920000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №137",
+    "rooms": 2,
+    "area": 28.5,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №138",
+    "rooms": 2,
+    "area": 32.8,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №139",
+    "rooms": 3,
+    "area": 47.4,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 4270000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №140",
+    "rooms": 2,
+    "area": 151.4,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 11360000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №141",
+    "rooms": 1,
+    "area": 43.3,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №142",
+    "rooms": 2,
+    "area": 83.7,
+    "floor": 11,
+    "floors_total": 17,
+    "price": 6280000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №143",
+    "rooms": 1,
+    "area": 153.1,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 9190000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №144",
+    "rooms": 3,
+    "area": 30.2,
+    "floor": 5,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №145",
+    "rooms": 2,
+    "area": 109.8,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 8240000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №146",
+    "rooms": 1,
+    "area": 75.7,
+    "floor": 12,
+    "floors_total": 17,
+    "price": 4540000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №147",
+    "rooms": 1,
+    "area": 134.3,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 8060000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №148",
+    "rooms": 2,
+    "area": 32.2,
+    "floor": 1,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №149",
+    "rooms": 2,
+    "area": 67.9,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 5090000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №150",
+    "rooms": 4,
+    "area": 115.3,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 12110000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №151",
+    "rooms": 2,
+    "area": 116.7,
+    "floor": 13,
+    "floors_total": 17,
+    "price": 8750000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №152",
+    "rooms": 3,
+    "area": 89.9,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 8090000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №153",
+    "rooms": 2,
+    "area": 126.6,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 9500000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №154",
+    "rooms": 2,
+    "area": 99.7,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 7480000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №155",
+    "rooms": 2,
+    "area": 45.5,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №156",
+    "rooms": 4,
+    "area": 76.4,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 8020000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №157",
+    "rooms": 1,
+    "area": 67.3,
+    "floor": 11,
+    "floors_total": 17,
+    "price": 4040000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №158",
+    "rooms": 3,
+    "area": 146.4,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 13180000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №159",
+    "rooms": 3,
+    "area": 93.3,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 8400000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №160",
+    "rooms": 2,
+    "area": 97.4,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 7300000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №161",
+    "rooms": 2,
+    "area": 72.3,
+    "floor": 6,
+    "floors_total": 17,
+    "price": 5420000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №162",
+    "rooms": 2,
+    "area": 99.8,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 7480000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №163",
+    "rooms": 1,
+    "area": 84.5,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 5070000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №164",
+    "rooms": 3,
+    "area": 75.7,
+    "floor": 17,
+    "floors_total": 17,
+    "price": 6810000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №165",
+    "rooms": 4,
+    "area": 142.7,
+    "floor": 17,
+    "floors_total": 17,
+    "price": 14980000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №166",
+    "rooms": 4,
+    "area": 101.1,
+    "floor": 12,
+    "floors_total": 17,
+    "price": 10620000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №167",
+    "rooms": 1,
+    "area": 81.5,
+    "floor": 11,
+    "floors_total": 17,
+    "price": 4890000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №168",
+    "rooms": 1,
+    "area": 137.3,
+    "floor": 17,
+    "floors_total": 17,
+    "price": 8240000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №169",
+    "rooms": 2,
+    "area": 106.5,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 7990000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №170",
+    "rooms": 4,
+    "area": 153.3,
+    "floor": 5,
+    "floors_total": 17,
+    "price": 16100000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №171",
+    "rooms": 2,
+    "area": 97.7,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 7330000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №172",
+    "rooms": 3,
+    "area": 131.9,
+    "floor": 1,
+    "floors_total": 17,
+    "price": 11870000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №173",
+    "rooms": 2,
+    "area": 71.8,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 5380000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №174",
+    "rooms": 2,
+    "area": 117.5,
+    "floor": 8,
+    "floors_total": 17,
+    "price": 8810000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №175",
+    "rooms": 4,
+    "area": 156.9,
+    "floor": 12,
+    "floors_total": 17,
+    "price": 16470000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №176",
+    "rooms": 2,
+    "area": 103.5,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 7760000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №177",
+    "rooms": 4,
+    "area": 132.3,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 13890000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №178",
+    "rooms": 3,
+    "area": 144.1,
+    "floor": 10,
+    "floors_total": 17,
+    "price": 12970000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №179",
+    "rooms": 1,
+    "area": 55.8,
+    "floor": 17,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №180",
+    "rooms": 3,
+    "area": 122.0,
+    "floor": 7,
+    "floors_total": 17,
+    "price": 10980000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №181",
+    "rooms": 1,
+    "area": 38.4,
+    "floor": 1,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №182",
+    "rooms": 2,
+    "area": 92.8,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 6960000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №183",
+    "rooms": 2,
+    "area": 49.4,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №184",
+    "rooms": 3,
+    "area": 146.7,
+    "floor": 16,
+    "floors_total": 17,
+    "price": 13200000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №185",
+    "rooms": 3,
+    "area": 120.1,
+    "floor": 9,
+    "floors_total": 17,
+    "price": 10810000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №186",
+    "rooms": 2,
+    "area": 87.3,
+    "floor": 17,
+    "floors_total": 17,
+    "price": 6550000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №187",
+    "rooms": 1,
+    "area": 152.7,
+    "floor": 12,
+    "floors_total": 17,
+    "price": 9160000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №188",
+    "rooms": 4,
+    "area": 73.2,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 7690000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №189",
+    "rooms": 2,
+    "area": 153.5,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 11510000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №190",
+    "rooms": 1,
+    "area": 122.8,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 7370000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №191",
+    "rooms": 3,
+    "area": 76.3,
+    "floor": 14,
+    "floors_total": 17,
+    "price": 6870000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №192",
+    "rooms": 3,
+    "area": 102.2,
+    "floor": 10,
+    "floors_total": 17,
+    "price": 9200000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №193",
+    "rooms": 2,
+    "area": 88.1,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 6610000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №194",
+    "rooms": 1,
+    "area": 35.2,
+    "floor": 10,
+    "floors_total": 17,
+    "price": 4000000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "4-комнатная №195",
+    "rooms": 4,
+    "area": 104.1,
+    "floor": 4,
+    "floors_total": 17,
+    "price": 10930000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №196",
+    "rooms": 1,
+    "area": 90.0,
+    "floor": 15,
+    "floors_total": 17,
+    "price": 5400000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "3-комнатная №197",
+    "rooms": 3,
+    "area": 99.4,
+    "floor": 5,
+    "floors_total": 17,
+    "price": 8950000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "1-комнатная №198",
+    "rooms": 1,
+    "area": 78.7,
+    "floor": 3,
+    "floors_total": 17,
+    "price": 4720000,
+    "image": "@/assets/img/plan.svg"
+  },
+  {
+    "title": "2-комнатная №199",
+    "rooms": 2,
+    "area": 116.4,
+    "floor": 2,
+    "floors_total": 17,
+    "price": 8730000,
+    "image": "@/assets/img/plan.svg"
+  }
+]
